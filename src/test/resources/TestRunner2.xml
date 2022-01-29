@@ -9,7 +9,11 @@
     </classes>
   </test>  
   
-
+  <test name="Test1" >
+    <classes>
+       <class name="com.wiki.seleniumScripts.Script3" />
+    </classes>
+  </test>
   
  
   
